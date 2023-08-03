@@ -1,0 +1,15 @@
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.csproj.AssemblyReference.cache
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.AssemblyInfoInputs.cache
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.AssemblyInfo.cs
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.csproj.CoreCompileInputs.cache
+/Users/cstafford/Documents/GitHub/devlab/bin/Debug/net7.0/devlab
+/Users/cstafford/Documents/GitHub/devlab/bin/Debug/net7.0/devlab.deps.json
+/Users/cstafford/Documents/GitHub/devlab/bin/Debug/net7.0/devlab.runtimeconfig.json
+/Users/cstafford/Documents/GitHub/devlab/bin/Debug/net7.0/devlab.dll
+/Users/cstafford/Documents/GitHub/devlab/bin/Debug/net7.0/devlab.pdb
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.dll
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/refint/devlab.dll
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.pdb
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/devlab.genruntimeconfig.cache
+/Users/cstafford/Documents/GitHub/devlab/obj/Debug/net7.0/ref/devlab.dll
