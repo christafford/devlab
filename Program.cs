@@ -33,7 +33,7 @@ Console.WriteLine($"Result was: {result}");
 bool CheckStringsEqual(string firstString, string secondString)
 {
     // todo
-    return false;
+    return firstString == secondString;
 }
 
 bool CheckAnagram(string firstString, string secondString)
