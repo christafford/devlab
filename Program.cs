@@ -39,5 +39,5 @@ bool CheckStringsEqual(string firstString, string secondString)
 bool CheckAnagram(string firstString, string secondString)
 {
     // todo
-    return false;
+    return firstString == secondString.Reverse();
 }
